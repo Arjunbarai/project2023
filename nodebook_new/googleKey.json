@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bookopedia-384712",
+  "private_key_id": "e131c1ee18a0d9c3554def33a98e9b470676cbe4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVD+URDOGDYAap\nKmFsAdulvTCYOcHAbGzBQMWmOgx0SCXEQ90ccYAqxKRFDqztBpOCtYtmPIa75eoL\nRiICFbDLAwwsPB7uei9DFkQZxySNPVi81OH7DbpJVxMFTbc+xzPwG57BR8umCKWp\npsrkddClvoZK0s04SCmEQUTRBjwZ/3rGzZWCiQsXTgJXBadTmfKy0JwiaXg+qr3c\nZ/uZAirhr0uFzFsEbcPaAkA8TWt9HIeIzBRnP+uS1cmUHLr1244TBdOseOM9YL4+\nNSZSyUR+iyDxCkxwHHgnxNsqzO8Z9jJdpYjeObUKD6hmUxs9iHtTyXJ1oBAD2/Lw\nL5pTnQR1AgMBAAECggEAL4AqrqFziYmYEpDrRVworwu90MJXquHBYVhieEvKyQXo\nvZfvrM61J1PN18OM1A86RdLZsEJgO3Xntvm8zUAuuSQFy7rfnoVJEijdp+2Y/ZAm\nv3qqowENfhpWmEEaUHmy354Yx7iM84hL/sW7yDFoAfu3DulubVTRRLYUdJFyRs0h\nDtsPBQocm7W62fZcaxLmzqUfGBkLVSQScNLQh2/jrGv58NazIdap8unoh14bdfOG\nKp9nyG9n2SvvADC4gXJBr3CjGKfa77gO9/6ZdIm3IjZR+h0oVTtA1/jqiwe8+Qw4\nhLZ3YF9AjIN+uuefaPYKlD6ARijMOXGo7r4yX/DL5QKBgQD8CgQgvLufJAZZI4xe\nSlQTNQJ86hHbOXBHDgZ93EThjBhPdgh0ZDIZoqPvM8xsTTsdpW98NNvmp4SVT3HR\ndclENHE2gjzNW3/iEfVQp3FvgfiHetaJi6LtqYwkHu45PS18css0/joFvYiqc7Co\niBhsxRW9D3PTTWmkuRt4iVl7FwKBgQDYaRHACpZ23nn9M82OC0PFx0oocyhwbRYH\nE4gr5F1bVyw9dA/fZdbITqyF0b1OqVYweBZ8V1bbHxQEhW4nihSC7F0q/iKU/Mpw\nRv55J+Ez5j4uA9uEecdiu91i5MsIwh0VAVmiTVGvRJtmVMgB99Wm5d4nK1F/aTu4\nixb8YVhEUwKBgHGuMt5xQk8teI+MMSv2aqWfK1gcW6F97t6dvN/YElmJTw3IN1gI\nOXDGoxqpSnMvApMEo5xqWyVWOb7+7l+DuRxCay4i4DngI3Zck0GlxMx+2xKAnXO8\nv+hiqQtByEGZDoMrY+yrHpCoRJRdSjk56Ypl+sAj0CJmsFfUBkf/65RRAoGAffFH\nvzdqMWtwGwcWzV+I5YUBh2DdW/BgLWYUjVatbgbhXDI7OouN36zJgmd5gFnUKwj4\nLQy3I3aGs8rjPGeDYF4mKmsTvRkQxx7J4cBvs0B/V1AvZH1qp+8k+/SipEozmpHa\nlDXjH9kRhxA4Bc0xrZuBGdJ/72JSuydXDTGpqLkCgYEAhXzEFoeDA4UAAvvMEvp+\nYrosaUtnnXdp3sCSj+C0bgTNS0SIUXmcM/p3JJiH6CwZq9fPgReublpKvFiS3boG\nhOXqs7lp4+bCFuUIyi/peM34tA/TpcpYSW7+IdhjKVn9Wt3ylAoiMCenXnSpR05D\nWTKcjIVVb3CIvgltXIptG/0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookopediaservice@bookopedia-384712.iam.gserviceaccount.com",
+  "client_id": "117214237014986446445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookopediaservice%40bookopedia-384712.iam.gserviceaccount.com"
+}

@@ -1,0 +1,16 @@
+const express = require('express')
+const router = express.Router()
+const bookController = require('../Controller/BookController')
+
+// router.get('/getbookuser',bookController.getBookDataWithUser)
+router.get('/getbookauthor', bookController.getBookDataWithAuthor)
+// router.get('/getbookfile',bookController.getBookDataWithFile)
+router.post('/book', bookController.addBook)
+router.get('/book/:id', bookController.getBookById)
+router.delete('/delete/:id', bookController.deleteBook)
+router.put('/update/:id', bookController.updateBook)
+router.get('/book', bookController.getBookData)
+router.get('/filterbookbylable/:id', bookController.getBookDataWithlabels)
+router.get('/search/:query',bookController.searchBook)
+router.get('/get/:id', bookController.getAllList)
+module.exports = router
